@@ -1,0 +1,35 @@
+.tableContainer{
+    padding: 10px;
+    margin: 50px 100px;
+    width: 1700px;
+}
+
+.table{
+    width: 85%;
+    height: 100%;
+    background-color: white;
+}
+
+.tableHeader{
+    font-weight: 100;
+}
+
+.carName{
+    width: 35%;
+}
+
+.brand{
+    width: 10%;
+}
+
+.model{
+    width: 10%;
+}
+
+.year{
+    width: 10%;
+}
+
+.plaka{
+    width: 30%;
+}
